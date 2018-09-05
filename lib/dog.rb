@@ -11,6 +11,3 @@ class Dog
       @name = new_name
     end
 end
-
-kanye = Dog.new("Kanye")
-kanye.name = ()
