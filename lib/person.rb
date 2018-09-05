@@ -8,12 +8,11 @@ class Person
     @name
   end
 
-  def Job =(Job)
-    @Job= Job
+  def job=(job)
+    @job=job
   end
 
-  def Job
-    @Job
+  def job
+    @job
   end
-
 end
